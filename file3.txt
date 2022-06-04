@@ -1,0 +1,12 @@
+blkid
+netstat -tulnp
+ps -ef | grep -i java
+java -version
+cat /etc/os-release
+uname -a
+free -g
+getenforce
+systemctl status httpd
+systemctl status mysqld
+systemctl status postfix
+systemctl status firewalld
